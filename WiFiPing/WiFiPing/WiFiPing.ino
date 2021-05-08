@@ -1,3 +1,5 @@
+/* This program has not been tested */
+/* Sample program which comes out of the box with Arduino UI*/
 /*
   This example connects to an encrypted WiFi network (WPA/WPA2).
   Then it prints the MAC address of the board,
